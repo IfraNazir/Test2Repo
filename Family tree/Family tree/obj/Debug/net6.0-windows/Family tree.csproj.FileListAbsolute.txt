@@ -56,3 +56,61 @@ E:\Family Project\Family Tree\Family tree\Family tree\obj\Debug\net6.0-windows\r
 E:\Family Project\Family Tree\Family tree\Family tree\obj\Debug\net6.0-windows\Family tree.pdb
 E:\Family Project\Family Tree\Family tree\Family tree\obj\Debug\net6.0-windows\Family tree.genruntimeconfig.cache
 E:\Family Project\Family Tree\Family tree\Family tree\obj\Debug\net6.0-windows\ref\Family tree.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Family tree.exe
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Family tree.deps.json
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Family tree.runtimeconfig.json
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Family tree.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Family tree.pdb
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.winsqlite3.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\Test2Repo\Family tree\Family tree\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\Test2Repo\Family tree\Family tree\obj\Debug\net6.0-windows\Family tree.csproj.AssemblyReference.cache
+D:\Test2Repo\Family tree\Family tree\obj\Debug\net6.0-windows\Family_tree.Properties.Resources.resources
+D:\Test2Repo\Family tree\Family tree\obj\Debug\net6.0-windows\Family_tree.Views.AddEditFamilyMemberDialog.resources
+D:\Test2Repo\Family tree\Family tree\obj\Debug\net6.0-windows\Family_tree.FamilyTitlePage.resources
+D:\Test2Repo\Family tree\Family tree\obj\Debug\net6.0-windows\Family_tree.Views.FamilyTreePage.resources
+D:\Test2Repo\Family tree\Family tree\obj\Debug\net6.0-windows\Family_tree.Views.LearnTreeView.resources
+D:\Test2Repo\Family tree\Family tree\obj\Debug\net6.0-windows\Family tree.csproj.GenerateResource.cache
+D:\Test2Repo\Family tree\Family tree\obj\Debug\net6.0-windows\Family tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test2Repo\Family tree\Family tree\obj\Debug\net6.0-windows\Family tree.AssemblyInfoInputs.cache
+D:\Test2Repo\Family tree\Family tree\obj\Debug\net6.0-windows\Family tree.AssemblyInfo.cs
+D:\Test2Repo\Family tree\Family tree\obj\Debug\net6.0-windows\Family tree.csproj.CoreCompileInputs.cache
+D:\Test2Repo\Family tree\Family tree\obj\Debug\net6.0-windows\Family tree.csproj.CopyComplete
+D:\Test2Repo\Family tree\Family tree\obj\Debug\net6.0-windows\Family tree.dll
+D:\Test2Repo\Family tree\Family tree\obj\Debug\net6.0-windows\refint\Family tree.dll
+D:\Test2Repo\Family tree\Family tree\obj\Debug\net6.0-windows\Family tree.pdb
+D:\Test2Repo\Family tree\Family tree\obj\Debug\net6.0-windows\Family tree.genruntimeconfig.cache
+D:\Test2Repo\Family tree\Family tree\obj\Debug\net6.0-windows\ref\Family tree.dll

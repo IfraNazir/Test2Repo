@@ -15,11 +15,11 @@ namespace Family_tree
 
         private void FamilyName_Load(object sender, EventArgs e)
         {
-            dataGridViewFamilyName.DataSource = appContext.FamilyTitles.ToList();
+            //dataGridViewFamilyName.DataSource = appContext.FamilyTitles.ToList();
         }
 
         private void buttonSave_Click(object sender, EventArgs e)
-        { 
+        {
             var familyTree = new FamilyTitle()
             {
                 Family_Title = textBoxFamilyTitle.Text,
@@ -30,7 +30,7 @@ namespace Family_tree
             dataGridViewFamilyName.DataSource = appContext.FamilyTitles.ToList();
 
         }
-       
+
         private void dataGridViewFamilyName_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
             if (e.RowIndex >= 0)
@@ -43,6 +43,6 @@ namespace Family_tree
                 familyTreePage.ShowDialog();
             }
         }
-       
+
     }
 }

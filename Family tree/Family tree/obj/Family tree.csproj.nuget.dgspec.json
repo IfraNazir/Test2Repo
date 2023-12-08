@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ifra\\Family Project\\Family Tree\\Family tree\\Family tree\\Family tree.csproj": {}
+    "D:\\Test2Repo\\Family tree\\Family tree\\Family tree.csproj": {}
   },
   "projects": {
-    "D:\\Ifra\\Family Project\\Family Tree\\Family tree\\Family tree\\Family tree.csproj": {
+    "D:\\Test2Repo\\Family tree\\Family tree\\Family tree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ifra\\Family Project\\Family Tree\\Family tree\\Family tree\\Family tree.csproj",
+        "projectUniqueName": "D:\\Test2Repo\\Family tree\\Family tree\\Family tree.csproj",
         "projectName": "Family tree",
-        "projectPath": "D:\\Ifra\\Family Project\\Family Tree\\Family tree\\Family tree\\Family tree.csproj",
+        "projectPath": "D:\\Test2Repo\\Family tree\\Family tree\\Family tree.csproj",
         "packagesPath": "C:\\Users\\RenoSoftwares16\\.nuget\\packages\\",
-        "outputPath": "D:\\Ifra\\Family Project\\Family Tree\\Family tree\\Family tree\\obj\\",
+        "outputPath": "D:\\Test2Repo\\Family tree\\Family tree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RenoSoftwares16\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -78,7 +78,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
